@@ -1,6 +1,6 @@
 # Windows — start here
 
-1. Download **reef-dashboard-0.3.0-windows-x64.zip** from Releases.
+1. Download **reef-dashboard-0.3.1-windows-x64.zip** from Releases.
 2. Right-click the ZIP and choose **Extract All**.
 3. Open **Start Aquarium.exe** in the extracted folder. No Docker or Node.js installation is needed.
 4. Follow the assistant: choose your aquarium name and language, find and select your devices, then connect a tablet. You can start with the demo or journal only.
@@ -11,5 +11,7 @@ Keep the computer switched on and awake. After restarting Windows, open the desk
 Choose a theme in **Settings → Themes**, then save. There are six looks with different animations; use light effects on older tablets.
 
 The beta launcher is unsigned. Do not disable Windows security. If installation is blocked, report the exact message. Pairing codes are private, single-use and valid for 10 minutes.
+
+DHCP works. For a stable tablet address, reserve an IP for this computer or server in your router (DHCP reservation); keep automatic IP settings enabled. The QR uses your home-network address. If the address changes, reopen Settings on the computer, generate a new code and update the tablet shortcut.
 
 [Reef Dashboard](../README.md)
