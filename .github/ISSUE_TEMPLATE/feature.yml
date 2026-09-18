@@ -1,0 +1,17 @@
+name: Feature request / Propozycja funkcji
+description: Suggest an improvement.
+title: "[Idea] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What would this help you do?
+      description: EN, PL, ES, FR and DE are welcome.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your suggestion
+    validations:
+      required: true

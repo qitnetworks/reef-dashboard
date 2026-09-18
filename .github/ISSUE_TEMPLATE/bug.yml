@@ -1,0 +1,40 @@
+name: Bug report / Zgłoszenie błędu
+description: Report a problem with installation or the dashboard.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Reports in EN, PL, ES, FR and DE are welcome. This is public: do not include passwords, QR codes, pairing links or database backups."
+  - type: input
+    id: version
+    attributes:
+      label: Application version
+      placeholder: "0.3.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: edition
+    attributes:
+      label: Installation
+      options:
+        - Windows package
+        - Linux Docker package
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Computer, tablet, browser and equipment
+      description: Include OS/browser versions and the equipment model if relevant.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
