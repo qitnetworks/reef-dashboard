@@ -1,0 +1,16 @@
+Reef Dashboard — Free proprietary application
+Copyright 2026. All rights reserved.
+
+Permission is granted to use this application free of charge and to share
+unmodified release packages, including this notice and third-party notices.
+Users may configure their own installation name, devices and data.
+
+The application source is private. This notice does not grant permission to
+publish its source code, sell the application, or distribute modified builds.
+Rights that cannot be restricted under applicable law remain unaffected.
+Third-party components retain their own licenses and permissions.
+
+The application is provided as-is, without warranties, to the extent permitted
+by applicable law. It is an independent monitoring and journal tool and is not
+affiliated with or endorsed by Red Sea, ReefBeat or Hanna Instruments.
+Equipment control remains in its manufacturer's application.

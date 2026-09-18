@@ -1,0 +1,13 @@
+# This public repository contains documentation only.
+*.zip
+*.tar
+*.sqlite*
+*.env
+.env
+*.key
+*.pem
+data/
+node_modules/
+src/
+server/
+config/
