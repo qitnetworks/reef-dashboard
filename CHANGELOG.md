@@ -1,5 +1,12 @@
 # Releases
 
+## 0.3.1 — Windows beta hotfix
+
+- The Windows launcher starts in English regardless of the Windows display language.
+- Subsequent startup and stop messages use the language saved in application settings.
+- Tablet connection help explains DHCP reservations and reconnecting after an IP change, in all five languages. Verified that pairing codes use the computer's LAN address and reject localhost / loopback addresses.
+- Existing aquarium data and access settings are preserved. Linux / Docker stays on 0.3.0; this fix affects only the Windows launcher.
+
 ## 0.3.0 — Beta
 
 - Guided setup and tablet pairing by QR code.

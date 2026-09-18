@@ -8,11 +8,11 @@ Live readings, water tests and equipment status, with a rotating tablet dashboar
 
 ## Get started
 
-Open [**v0.3.0 — Beta**](https://github.com/qitnetworks/reef-dashboard/releases/tag/v0.3.0). In **Assets**, download one of these files:
+Download the package for your system below. Windows **0.3.1 beta** includes a launcher language fix; Linux / Docker remains on **0.3.0 beta**.
 
 | Your setup | Download | Instructions |
 | --- | --- | --- |
-| **Windows PC — easiest** | [**Download for Windows**](https://github.com/qitnetworks/reef-dashboard/releases/download/v0.3.0/reef-dashboard-0.3.0-windows-x64.zip) | [Start here](docs/WINDOWS-EN.md) |
+| **Windows PC — easiest** | [**Download for Windows**](https://github.com/qitnetworks/reef-dashboard/releases/download/v0.3.1/reef-dashboard-0.3.1-windows-x64.zip) | [Start here](docs/WINDOWS-EN.md) |
 | Existing Linux x64 server with Docker | [Download for Linux / Docker](https://github.com/qitnetworks/reef-dashboard/releases/download/v0.3.0/reef-dashboard-0.3.0-linux-amd64.zip) | [Server instructions · 5 languages](docs/SERVER.md) |
 
 **Choose the Windows ZIP if you are unsure.** It includes its own runtime; you do not need Docker or Node.js. Extract the ZIP, open **Start Aquarium.exe**, and follow the assistant. Connect your tablet by scanning a QR code.
